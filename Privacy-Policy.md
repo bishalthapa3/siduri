@@ -1,11 +1,11 @@
 
-# Privacy Policy
+### Privacy Policy
 
 **Effective date: July 31, 2025**
 
 We take the protection of your personal data seriously. This Privacy Policy explains what data we collect, how we use it, and your rights under the General Data Protection Regulation (GDPR).
 
-## 1. Data Controller
+### 1. Data Controller
 
 The data controller for this website is:
 
@@ -15,7 +15,7 @@ Heinrich-Heine-Str. 10
 Germany  
 Email: [hello@siduri.ai](mailto:hello@siduri.ai)
 
-## 2. What Data We Collect
+### 2. What Data We Collect
 
 ### a) Data you provide voluntarily
 
@@ -38,7 +38,7 @@ When you access our website, certain data may be collected automatically for tec
 - Pages visited  
 - Date and time of access
 
-## 3. Legal Basis for Processing
+### 3. Legal Basis for Processing
 
 The legal basis for processing your data is your consent in accordance with **Art. 6 (1) (a) GDPR**.  
 You may withdraw this consent at any time by contacting us at the email address provided above.
@@ -53,23 +53,23 @@ We use your data to:
 
 Your data will not be used for marketing purposes (e.g. newsletters) without your explicit consent.
 
-## 5. Data Storage and Retention
+### 5. Data Storage and Retention
 
 Your data is stored securely on servers operated by our third-party hosting provider.  
 We retain your data only as long as necessary for the purposes described above or as required by law.
 
-## 6. Use of Analytics
+### 6. Use of Analytics
 
 We may use analytics tools (e.g. Google Analytics) to understand website usage and improve the user experience.  
 These tools may collect anonymized data such as device type, browser version, and pages visited.  
 **No personally identifiable information is collected through analytics.**
 
-## 7. International Data Transfers
+### 7. International Data Transfers
 
 In certain cases, your data may be accessed or processed outside the European Economic Area (EEA), including in **Nepal**.  
 When this occurs, we take appropriate safeguards to ensure your data is handled in accordance with GDPR standards, including **standard contractual clauses** where applicable.
 
-## 8. Your Rights
+### 8. Your Rights
 
 Under the GDPR, you have the following rights:
 
@@ -80,7 +80,7 @@ Under the GDPR, you have the following rights:
 
 To exercise your rights, contact us at [hello@siduri.ai](mailto:hello@siduri.ai)
 
-## 9. Contact
+### 9. Contact
 
 If you have any questions or concerns about this Privacy Policy, please contact:
 
