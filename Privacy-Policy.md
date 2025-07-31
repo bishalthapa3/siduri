@@ -1,121 +1,109 @@
 
 # Privacy Policy
 
-**Last Updated: July 28th, 2025**
+**Effective date: July 31, 2025**
+
+We take the protection of your personal data seriously. This Privacy Policy explains what data we collect, how we use it, and your rights under the General Data Protection Regulation (GDPR).
 
 ---
 
-## 1. General Information
+## 1. Data Controller
 
-We take the protection of your personal data seriously and comply with the applicable data protection regulations, particularly the General Data Protection Regulation (GDPR), known in Germany as the **Datenschutzgrundverordnung (DSGVO)**. This Privacy Policy informs you about how we collect, process, and protect your data when you visit our website and use our services.
+The data controller for this website is:
 
-The legal responsibility for this website and all associated data processing activities lies with:
-
-**Elephanti Soft UG (haftungsbeschränkt)**  
+**Annemarie Werner**  
 Heinrich-Heine-Str. 10  
 72810 Gomaringen  
-Email: [your-email]  
-Managing Director: Annemarie Werner
-
-If you have any questions about this Privacy Policy, please contact us at [privacy@elephanti-soft.de](mailto:privacy@elephanti-soft.de).
+Germany  
+Email: [hello@siduri.ai](mailto:hello@siduri.ai)
 
 ---
 
-## 2. Data We May Collect
+## 2. What Data We Collect
 
-We may collect and process personal data when legally permitted and necessary for our operations.
+### a) Data you provide voluntarily
 
-### Automatically Collected Data (Server Logs)
-When you access our website, certain information may be automatically transmitted by your browser and stored in server log files. This includes:
+We collect and process the following personal data when you fill out the early access form:
+
+- Your first and last name  
+- Your work email address  
+- Your stated use case (selected options or written description)
+
+This data is collected solely for the purpose of managing early access to the Siduri product and communicating with selected participants.
+
+### b) Data collected automatically when you visit the website
+
+When you access our website, certain data may be collected automatically for technical and analytical purposes. This may include:
+
 - IP address  
 - Browser type and version  
 - Operating system  
-- Referrer URL (previously visited page)  
+- Referring URLs  
+- Pages visited  
 - Date and time of access
 
-This data is required to ensure the security and stability of our website and to detect technical issues. It is processed based on our legitimate interest (Art. 6 Abs. 1 lit. f DSGVO) and is stored after a reasonable period.
+---
 
-### User-Provided Data
-We may collect personal data that you voluntarily provide when contacting us, requesting information, or using any of our website forms. This includes, but is not limited to:
-- Name  
-- Email address  
-- Company information (if provided)  
-- Message content  
+## 3. Legal Basis for Processing
+
+The legal basis for processing your data is your consent in accordance with **Art. 6 (1) (a) GDPR**.  
+You may withdraw this consent at any time by contacting us at the email address provided above.
 
 ---
 
-## 3. Purpose of Data Processing
+## 4. How We Use Your Data
 
-We process your personal data exclusively for the following purposes:
-- To provide and improve our services  
-- To respond to inquiries and support requests  
-- To ensure the security and functionality of our platform  
-- To comply with legal obligations  
+We use your data to:
 
-Your data is not used for advertising or tracking purposes unless explicitly stated.
+- Review early access applications  
+- Communicate with selected users  
+- Improve our product based on feedback and usage
 
----
-
-## 4. Legal Basis for Processing
-
-The processing of personal data is carried out in accordance with the DSGVO, based on the following legal grounds:
-- **Art. 6 Abs. 1 lit. b DSGVO** – For contract fulfillment or pre-contractual measures.  
-- **Art. 6 Abs. 1 lit. f DSGVO** – Based on our legitimate interests, such as security, fraud prevention, or efficient customer communication.  
-- **Art. 6 Abs. 1 lit. a DSGVO** – Based on explicit consent, which can be revoked at any time.
+Your data will not be used for marketing purposes (e.g. newsletters) without your explicit consent.
 
 ---
 
-## 5. Data Processing in Third Countries (Including Nepal)
+## 5. Data Storage and Retention
 
-To maintain and support our platform, certain technical data processing may be carried out by IT service providers outside the European Economic Area (EEA). Specifically, we collaborate with IT partners who provide maintenance and support services.
-
-When data is transferred to a third country, we ensure that appropriate safeguards are in place under Art. 44 ff. DSGVO, including:
-
-- The use of EU Standard Contractual Clauses (SCCs) as required by the European Commission.  
-- Technical and organizational security measures to protect data from unauthorized access.  
-- Periodic assessments of the data protection standards of our partners.
-
-All such processing activities comply with DSGVO standards to ensure your rights and privacy are fully protected.
+Your data is stored securely on servers operated by our third-party hosting provider.  
+We retain your data only as long as necessary for the purposes described above or as required by law.
 
 ---
 
-## 6. Contact Requests via Website Forms
+## 6. Use of Analytics
 
-If you contact us via a form (such as name, email, or message) through one of our website forms, we will store and process this data to respond to your inquiry and provide relevant information about our services.
-
-We may also use your email address to send additional communications related to our services, offers, or updates, unless you withdraw your consent. Your data will not be shared with third parties without your explicit consent.
-
-**Legal Basis:**
-- Processing is based on **Art. 6 Abs. 1 lit. a DSGVO (Consent)** for specific requests.
-- You can revoke your consent at any time by contacting us.
-
-**Storage & Deletion:**
-- Your data will remain with us until you request deletion, revoke your consent, or the purpose for storage no longer applies.  
-- Legal retention periods remain unaffected.
+We may use analytics tools (e.g. Google Analytics) to understand website usage and improve the user experience.  
+These tools may collect anonymized data such as device type, browser version, and pages visited.  
+**No personally identifiable information is collected through analytics.**
 
 ---
 
-## 7. No Use of Cookies or Tracking Technologies
+## 7. International Data Transfers
 
-Our website does not use cookies, tracking pixels, or similar technologies that collect personal data. Therefore, no cookie consent banner is required on our website.
-
----
-
-## 8. Your Rights Under DSGVO
-
-As a data subject, you have the following rights under the **Datenschutzgrundverordnung (DSGVO)**:
-
-- **Right of access** (Art. 15 DSGVO) – Request information on the data we store about you.  
-- **Right to rectification** (Art. 16 DSGVO) – Request correction of inaccurate or incomplete data.  
-- **Right to erasure** (Art. 17 DSGVO) – Request deletion of your personal data under certain conditions.  
-- **Right to restriction of processing** (Art. 18 DSGVO)  
-- **Right to data portability** (Art. 20 DSGVO)  
-- **Right to object** (Art. 21 DSGVO) – Object to processing based on our legitimate interest.  
-
-To exercise your rights, contact us at [privacy@elephanti-soft.de](mailto:privacy@elephanti-soft.de).
+In certain cases, your data may be accessed or processed outside the European Economic Area (EEA), including in **Nepal**.  
+When this occurs, we take appropriate safeguards to ensure your data is handled in accordance with GDPR standards, including **standard contractual clauses** where applicable.
 
 ---
 
-## 9. Changes to This Privacy Policy
+## 8. Your Rights
 
-We reserve the right to update this Privacy Policy to reflect legal or technical changes. The latest version is always available on this website.
+Under the GDPR, you have the following rights:
+
+- To access, correct, or delete your personal data  
+- To restrict or object to processing  
+- To data portability  
+- To withdraw consent at any time
+
+To exercise your rights, contact us at [hello@siduri.ai](mailto:hello@siduri.ai)
+
+---
+
+## 9. Contact
+
+If you have any questions or concerns about this Privacy Policy, please contact:
+
+**Annemarie Werner**  
+Heinrich-Heine-Str. 10  
+72810 Gomaringen  
+Germany  
+Email: [hello@siduri.ai](mailto:hello@siduri.ai)
